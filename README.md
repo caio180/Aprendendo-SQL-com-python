@@ -27,7 +27,9 @@ cursor(): permite enviar comandos SQL (como criar tabela, inserir dados etc.).
 Cria a tabela cadastros com as colunas:
 
 id = inteiro, chave primária, aumenta automaticamente
+
 email, senha, data_nascimento = textos
+
 O (IF NOT EXISTS) evita erro, caso a tabela já exista.
 
 # 5 - Coletando os dados do usuário:
