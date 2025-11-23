@@ -40,6 +40,7 @@ Esse código vai pedir as informações do usuário, independente da opção que
 Se o usuário escolher a opção: 1 (Realizar cadastro):
 
 Executa o comando INSERT na tabela
+
 Usa placeholders (?) para evitar ataques SQL injection
 commit() salva permanentemente os dados no banco.
 
