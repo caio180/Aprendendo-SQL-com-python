@@ -18,6 +18,7 @@ Mostra um menu ao usuário onde ele escolhe a opção desejada e guarda a escolh
 <img width="475" height="48" alt="Captura de tela 2025-11-23 135824" src="https://github.com/user-attachments/assets/25f67795-f0e5-4f31-a6b9-1ac90963ff3d" />
 
 connect("registro.db"): cria (caso não existir) ou abre o arquivo de banco de dados registro.db.
+
 cursor(): permite enviar comandos SQL (como criar tabela, inserir dados etc.).
 
 # 4 - Criando a tabela (Caso ela não existir):
